@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Analysis Dashboard
 
-![frontpage](https://github.com/ViRuS79Pro/ecommerce-Sales-Dashboard/blob/main/docs/Home_page.png)
+![frontpage](https://github.com/ViRuS79Pro/ecommerce-Sales-Dashboard/blob/main/images/Screenshot%202025-10-28%20181437.png)
 
 ## 📊 Project Overview  
 This project presents an interactive **E-Commerce Sales Analysis Dashboard** built entirely in **Microsoft Excel**.  
